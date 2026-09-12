@@ -1,0 +1,1 @@
+print ("Hello dosto,kya haal chaal ,kaise hai sab log?")
