@@ -1,4 +1,4 @@
-  1    git init
+   1    git init
    2    git satus  
    3    python testing.py
    4    git init
@@ -6,3 +6,4 @@
    6    git add testing.py
    7    git commit -m "added testing files"
    8    git restore 
+   9    this is new change 
