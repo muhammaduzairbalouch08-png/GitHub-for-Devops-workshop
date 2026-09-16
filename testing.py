@@ -1,1 +1,8 @@
-print ("Hello dosto,kya haal chaal ,kaise hai sab log?")
+def hello():
+    """
+    this is demo
+    """
+    return "Hello Dosto"
+
+
+hello()
