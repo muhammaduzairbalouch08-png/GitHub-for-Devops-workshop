@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def hello():
     """
     this is demo
@@ -6,3 +7,6 @@ def hello():
 
 
 hello()
+=======
+print("Hello dosto")
+>>>>>>> 866af71 (added test)
