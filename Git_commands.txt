@@ -1,0 +1,14 @@
+  2        0.208 rm testing.py
+   3        0.036 rm testing.py.py
+   4        0.902 git init 
+   5        0.259 git satus 
+   6        0.164 git status 
+   7        0.251 git status 
+   8        0.166 git add testing.py
+   9        0.132 git status 
+  10        0.384 git commit -m "added test" --no-verify
+  11        0.042 rm testing.py
+  12        0.009 ls 
+  13        0.166 git status 
+  14        0.271 git restore testing.py
+  15        0.103 git status
